@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="styles.css">
 <h1 align="center" id="greeting">Hi 👋, I'm Anas Al-Mardoud</h1>
 
 <h3 align="center">I am a passionate Computer Engineering student at Fırat University in Turkey , | Passionate about programming with expertise in game development, application development, web design, and more.</h3>
