@@ -1,7 +1,7 @@
-<head>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<h1 align="center" id="greeting">Hi 👋, I'm Anas Al-Mardoud</h1>
+<h3 align="center">
+    Hi,I'm Anas Al-Mardoud
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anasmardood&label=Profile%20views&color=0e75b6&style=flat" alt="anasmardood" /> </p>
 <h3 align="center">I am a passionate Computer Engineering student at Fırat University in Turkey , | Passionate about programming with expertise in game development, application development, web design, and more.</h3>
 
