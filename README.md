@@ -2,7 +2,6 @@
     Hi,I'm Anas Al-Mardoud
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anasmardood&label=Profile%20views&color=0e75b6&style=flat" alt="anasmardood" /> </p>
 <h3 align="center">I am a passionate Computer Engineering student at Fırat University in Turkey , | Passionate about programming with expertise in game development, application development, web design, and more.</h3>
 
 - 🌱 I’m currently learning **advanced concepts in game development, web design, and modern software engineering practices."**
@@ -24,4 +23,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anasmardood&show_icons=true&locale=en" alt="anasmardood" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anasmardood&" alt="anasmardood" /></p>
