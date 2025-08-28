@@ -2,7 +2,7 @@
     Hi,I'm Anas Al-Mardoud
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
-<h3 align="center">I am a **Computer Engineer**, recently graduated from **Fırat University, Turkey**.  </h3>
+<h3 align="center">I am a Computer Engineer, recently graduated from Fırat University, Turkey.  </h3>
 
 💻 Passionate about programming with expertise in:  
 - 🎮 Game Development  
