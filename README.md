@@ -2,15 +2,21 @@
     Hi,I'm Anas Al-Mardoud
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
-<h3 align="center">I am a passionate Computer Engineering student at Fırat University in Turkey , | Passionate about programming with expertise in game development, application development, web design, and more.</h3>
+<h3 align="center">I am a **Computer Engineer**, recently graduated from **Fırat University, Turkey**.  </h3>
 
-- 🌱 I’m currently learning **advanced concepts in game development, web design, and modern software engineering practices."**
+💻 Passionate about programming with expertise in:  
+- 🎮 Game Development  
+- 🖥️ Application Development  
+- 🌐 Web Design & Development  
+- 🤖 Artificial Intelligence & Machine Learning  
 
-- 👯 I’m looking to collaborate on **projects involving game development, application development, and web design. Open to exploring new ideas and technologies.**
+🌱 Currently expanding my knowledge in **modern software engineering practices, AI applications, and advanced game development techniques**.  
 
-- 👨‍💻 All of my projects are available at [https://github.com/AnasMardood](https://github.com/AnasMardood)
+👯 Open to collaborating on projects involving **game development, application development, web technologies, and AI-driven solutions**.  
 
-- 📫 How to reach me **enesmerdud26@gmail.com**
+📂 All of my projects are available on my GitHub: [github.com/AnasMardood](https://github.com/AnasMardood)  
+
+📫 Reach me at: **enesmerdud26@gmail.com**  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
